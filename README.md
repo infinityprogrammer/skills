@@ -2,7 +2,7 @@
 
 [![skills.sh](https://skills.sh/b/infinityprogrammer/skills)](https://skills.sh/infinityprogrammer/skills)
 
-Agent skills by infinityprogrammer.
+Agent skills by RAFI.
 
 ## Install
 
