@@ -1,0 +1,19 @@
+{
+  "name": "infinityprogrammer",
+  "owner": {
+    "name": "RAFI",
+    "url": "https://github.com/infinityprogrammer"
+  },
+  "metadata": {
+    "description": "Claude Code plugins by RAFI."
+  },
+  "plugins": [
+    {
+      "name": "rf-skills",
+      "source": "./",
+      "description": "Agent skills by RAFI: tracer-bullet feature planning, phased spec slices, and copy-ready Claude Code requirement and QA prompts.",
+      "version": "1.0.0",
+      "category": "productivity"
+    }
+  ]
+}

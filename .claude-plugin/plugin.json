@@ -1,0 +1,19 @@
+{
+  "name": "rf-skills",
+  "version": "1.0.0",
+  "description": "Agent skills by RAFI: tracer-bullet feature planning, phased spec slices, and copy-ready Claude Code requirement and QA prompts.",
+  "author": {
+    "name": "RAFI",
+    "url": "https://github.com/infinityprogrammer"
+  },
+  "homepage": "https://github.com/infinityprogrammer/skills",
+  "repository": "https://github.com/infinityprogrammer/skills",
+  "keywords": [
+    "skills",
+    "planning",
+    "tracer-bullet",
+    "specs",
+    "requirements",
+    "qa"
+  ]
+}
